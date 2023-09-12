@@ -7,3 +7,4 @@ To get this application running, make sure you do the following in the Terminal:
 3. `pip install -r requirements.txt`
 4. `createdb playlist-app`
 5. `flask run`
+# datebase-DJ
